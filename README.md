@@ -1,8 +1,10 @@
 # Effective Tutorial Notebooks for Cloud Computing Workflows using Remote Sensing Datasets
 
-Zachary Katz<sup>1</sup>
+Zachary Katz<sup>1</sup>, Tasha Snow<sup>2,3</sup>
 
-<sup>1</sup> Department of Geophysics, Colorado School of Mines, Golden, CO
+<sup>1</sup> Department of Geophysics, Colorado School of Mines, Golden, CO \
+<sup>2</sup> Earth System Science Interdisciplinary Center, University of Maryland, College Park, MD \
+<sup>3</sup> Cryospheric Laboratory, NASA Goddard Space Flight Center, Greenbelt, MD 
 
 Notebook submitted to USRSE 2026
 
