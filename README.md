@@ -39,6 +39,8 @@ Remote sensing research relies on high volumes of openly accessible data product
 | `Images` | Images used in tutorial |
 
 ### Usage
+Follow the instructions in the notebooks to set up your free [NASA Earthdata Login](https://urs.earthdata.nasa.gov/) to download SWOT and ICESat-2 data and (optionally) your free [Aviso+ Login](https://www.aviso.altimetry.fr/en/data/data-access/registration-form.html) to download a Dynamic Atmospheric Correction (DAC) for correcting SWOT data.
+
 #### To Run on CryoCloud
 Using a default python environment on CryoCloud, clone this repository and run ```CryoCloud_SWOT_Tutorial.ipynb```. Any dependencies not in the default environment will be installed by the notebook.
 
