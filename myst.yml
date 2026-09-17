@@ -8,9 +8,18 @@ project:
   # authors: []
   github: https://github.com/zsk4/USRSE26_Notebook
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
+toc:
+  - file: CryoCloud.ipynb
+    title: CryoCloud Notebook
+  - file: Local.ipynb
+    title: Local Notebook
+    
 site:
   template: book-theme
   options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
     logo_text: "USRSE Satellite Data Tutorial"
+
+    
