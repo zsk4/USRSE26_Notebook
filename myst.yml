@@ -10,9 +10,9 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
 toc:
-  - file: CryoCloud.ipynb
+  - file: CryoCloud_SWOT_Tutorial.ipynb
     title: CryoCloud Notebook
-  - file: Local.ipynb
+  - file: Local_SWOT_Tutorial.ipynb
     title: Local Notebook
     
 site:
