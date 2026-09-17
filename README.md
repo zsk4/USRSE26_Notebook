@@ -32,6 +32,8 @@ Remote sensing research relies on high volumes of openly accessible data product
 | `Local_SWOT_Tutorial.ipynb` | Alternative tutorial notebook for local use |
 | `README.md` | This document, containing and overview and how to use this project |
 | `Presentation.pdf` | Accompanying presentation to the tutorial when it was run as an introduction to CryoCloud |
+| `USRSE26_SatellieDataTutorial.pdf` | PDF version of tutorial website |
+| `USRSE26_SatellieDataTutorial.html` | HTML version of tutorial website |
 | | |
 | `myst.yml` | Rendering of MyST webpage |
 | `pyproject.toml` | Metadata and project package requirements |
