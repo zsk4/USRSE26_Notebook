@@ -5,6 +5,7 @@ description = "Notebook submitted to USRSE 2026 (https://us-rse.org/usrse26/) de
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "boto3>=1.43.75",
     "cmap>=0.7.2",
     "earthaccess>=0.17.0",
     "geopandas>=1.1.4",
@@ -13,7 +14,7 @@ dependencies = [
     "ipympl>=0.10.0",
     "matplotlib>=3.11.1",
     "pyastronomy>=0.25.0",
-    "pytmd>=3.0.9",
+    "pytmd<3",
     "rasterio>=1.4.4",
     "s3fs>=2026.7.0",
     "xarray[complete]>=2026.7.0",
