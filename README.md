@@ -34,7 +34,8 @@ Remote sensing research relies on high volumes of openly accessible data product
 | `Presentation.pdf` | Accompanying presentation to the tutorial when it was run as an introduction to CryoCloud |
 | `USRSE26_SatellieDataTutorial.pdf` | PDF version of tutorial website |
 | `USRSE26_SatelliteDataTutorial_Overview.html` | HTML version of tutorial overview page |
-| `USRSE26_CryoCloud_SWOT_Tutorial.html` | HTML version of tutorial |
+| `USRSE26_CryoCloud_SWOT_Tutorial.html` | HTML version of CryoCloud tutorial |
+| `USRSE26_Local_SWOT_Tutorial.html` | HTML version of local tutorial |
 | | |
 | `myst.yml` | Rendering of MyST webpage |
 | `pyproject.toml` | Metadata and project package requirements |
